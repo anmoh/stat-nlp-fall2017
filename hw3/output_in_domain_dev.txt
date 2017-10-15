@@ -2612,7 +2612,7 @@ cheered	VBD
 their	PRP$
 favorites	NNS
 and	CC
-booed	VBN
+booed	VBD
 the	DT
 opposition	NN
 ,	,
@@ -2870,7 +2870,7 @@ was	VBD
 flawless	JJ
 afield	RB
 (	(
-ditto	JJ
+ditto	NN
 in	IN
 game	NN
 two	CD
@@ -11444,7 +11444,7 @@ exchanges	NNS
 followed	VBD
 their	PRP$
 own	JJ
-pre-set	NN
+pre-set	JJ
 circuit	NN
 breakers	NNS
 and	CC
@@ -11847,7 +11847,7 @@ are	VBP
 in	IN
 place	NN
 that	IN
-synchronize	NN
+synchronize	JJ
 circuit	NN
 breakers	NNS
 in	IN
@@ -12419,8 +12419,8 @@ trouble	NN
 began	VBD
 .	.
 
-More	RBR
-taunting	JJ
+More	JJR
+taunting	NN
 in	IN
 the	DT
 parking	NN
@@ -13156,7 +13156,7 @@ Now	RB
 ,	,
 that	WDT
 's	VBZ
-reactionary	NN
+reactionary	JJ
 :	:
 Letter	NNP
 Carriers	NNP
@@ -13943,7 +13943,7 @@ who	WP
 want	VBP
 exposure	NN
 yet	RB
-shun	VB
+shun	VBP
 pushy	JJ
 ads	NNS
 .	.
@@ -14036,7 +14036,7 @@ as	IN
 ``	``
 Floodlights	NNP
 :	:
-Evening	NNP
+Evening	VBG
 Wear	VB
 for	IN
 Urban	NNP
@@ -15897,7 +15897,7 @@ conference	NN
 does	VBZ
 n't	RB
 require	VB
-unanimity	JJ
+unanimity	NN
 .	.
 
 Setting	VBG
@@ -18806,7 +18806,7 @@ the	DT
 Frankfurt	NNP
 market	NN
 's	POS
-steepest	NN
+steepest	JJS
 fall	NN
 ever	RB
 .	.
@@ -23587,7 +23587,7 @@ own	JJ
 version	NN
 of	IN
 a	DT
-CARE	NNP
+CARE	NN
 package	NN
 .	.
 
@@ -25840,7 +25840,7 @@ measure	NN
 of	IN
 volatility	NN
 is	VBZ
-wrung	VBG
+wrung	VBN
 out	RP
 of	IN
 the	DT
@@ -28403,7 +28403,7 @@ exotic	JJ
 It	PRP
 has	VBZ
 an	DT
-archival	JJ
+archival	NN
 ,	,
 almost	RB
 nostalgic	JJ
@@ -29002,7 +29002,7 @@ how	WRB
 to	TO
 develop	VB
 its	PRP$
-monochrome	NN
+monochrome	JJ
 film	NN
 more	RBR
 efficiently	RB
@@ -36401,7 +36401,7 @@ Field	NNP
 in	IN
 the	DT
 southeast	NN
-Sumatra	NNP
+Sumatra	NN
 area	NN
 of	IN
 Indonesia	NNP
@@ -36597,7 +36597,7 @@ with	IN
 Pertamina	NNP
 ,	,
 the	DT
-Indonesian	NNP
+Indonesian	JJ
 state	NN
 oil	NN
 company	NN
@@ -36999,7 +36999,7 @@ combination	NN
 of	IN
 cash	NN
 ,	,
-Memotec	NNP
+Memotec	JJ
 stock	NN
 and	CC
 debentures	NNS
