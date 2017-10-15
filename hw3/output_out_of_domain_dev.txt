@@ -16,7 +16,7 @@ lines	NNS
 with	IN
 John	NNP
 Roberts	NNP
-abstaining	VBG
+abstaining	NN
 due	JJ
 to	IN
 his	PRP$
@@ -134,7 +134,7 @@ joined	VBD
 BREYER	NNP
 filed	VBD
 a	DT
-concurring	NN
+concurring	JJ
 opinion	NN
 ,	,
 in	IN
@@ -2043,9 +2043,9 @@ jobs	NNS
 .	.
 
 In	IN
-'72	NNP
+'72	CD
 or	CC
-'73	NNP
+'73	CD
 ,	,
 if	IN
 you	PRP
@@ -3072,7 +3072,7 @@ under	IN
 counter-attack	NN
 !	.
 
-Crap	NN
+Crap	NNP
 like	IN
 this	DT
 sure	JJ
@@ -3867,7 +3867,7 @@ that	IN
 Libya	NNP
 was	VBD
 elected	VBN
-Chair	NN
+Chair	NNP
 of	IN
 the	DT
 UN	NNP
@@ -5003,7 +5003,7 @@ are	VBP
 dead	JJ
 .	.
 
-Suicide	NNP
+Suicide	NN
 murders	NNS
 also	RB
 have	VBP
@@ -9377,7 +9377,7 @@ meeting	NN
 said	VBD
 Bush	NNP
 pushed	VBD
-Musharraf	RB
+Musharraf	NNP
 hard	JJ
 on	IN
 reigning	VBG
@@ -9422,7 +9422,7 @@ All	DT
 three	CD
 are	VBP
 extremist	NN
-Taliban	NNP
+Taliban	NN
 or	CC
 their	PRP$
 allies	NNS
@@ -9461,7 +9461,7 @@ now	RB
 a	DT
 commander	NN
 of	IN
-Taliban	NNP
+Taliban	JJ
 forces	NNS
 while	IN
 Hikmetyar	NNP
@@ -9588,7 +9588,7 @@ next	JJ
 day	NN
 an	DT
 angry	JJ
-Musharraf	NNP
+Musharraf	NN
 categorically	RB
 said	VBD
 that	IN
@@ -9770,7 +9770,7 @@ entry	NN
 point	NN
 for	IN
 the	DT
-Taliban	NNP
+Taliban	NN
 into	IN
 Afghanistan	NNP
 .	.
@@ -9924,7 +9924,7 @@ with	IN
 a	DT
 list	NN
 of	IN
-Taliban	NNP
+Taliban	NN
 extremists	NNS
 and	CC
 their	PRP$
@@ -10060,7 +10060,7 @@ little	JJ
 reason	NN
 for	IN
 moderate	JJ
-Taliban	NNP
+Taliban	NN
 leaders	NNS
 to	IN
 fear	NN
@@ -10091,7 +10091,7 @@ the	DT
 return	NN
 of	IN
 moderate	JJ
-Taliban	NNP
+Taliban	NN
 .	.
 
 Afghan	JJ
@@ -10858,7 +10858,7 @@ Pakistan	NNP
 border	NN
 warned	VBD
 the	DT
-Taliban	NNP
+Taliban	NN
 in	IN
 Quetta	NNP
 and	CC
@@ -10879,7 +10879,7 @@ resisted	VBN
 .	.
 
 Many	JJ
-Taliban	NNP
+Taliban	NN
 living	NN
 in	IN
 Afghanistan	NNP
@@ -14606,7 +14606,7 @@ encourage	VB
 more	RBR
 organized	JJ
 anti-India	NN
-outfits	NN
+outfits	NNS
 ,	,
 such	JJ
 as	IN
@@ -14787,7 +14787,7 @@ the	DT
 now	RB
 -	HYPH
 defunct	JJ
-Asiaweek	NNP
+Asiaweek	NN
 in	IN
 2001	CD
 .	.
@@ -15105,7 +15105,7 @@ Sea	NNP
 coast	NN
 .	.
 
-Steady	NNP
+Steady	JJ
 buildup	NN
 
 The	DT
@@ -15168,7 +15168,7 @@ the	DT
 cover	NN
 of	IN
 the	DT
-Islamist	NN
+Islamist	NNP
 movement	NN
 ,	,
 have	VBP
@@ -15207,11 +15207,11 @@ as	IN
 the	DT
 Harkat	NNP
 -	HYPH
-ul	NNP
+ul	JJ
 -	HYPH
-Jehad	NNP
+Jehad	NN
 -	HYPH
-al	NNP
+al	NN
 -	HYPH
 Islami	NNP
 ,	,
@@ -15227,7 +15227,7 @@ put	VBD
 a	DT
 number	NN
 of	IN
-secessionist	NN
+secessionist	JJ
 rebels	NNS
 from	IN
 India	NNP
@@ -15314,8 +15314,8 @@ Bhutan	NNP
 to	IN
 Cox	NNP
 's	POS
-Bazar	NNP
-passes	NNS
+Bazar	NN
+passes	VBZ
 through	IN
 northern	JJ
 Bengal	NNP
@@ -15395,7 +15395,7 @@ larger	JJR
 and	CC
 more	RBR
 heavily	RB
-populated	JJ
+populated	VBN
 northern	JJ
 islands	NNS
 ,	,
@@ -16125,7 +16125,7 @@ Scheuer	NNP
 an	DT
 al	JJ
 -	HYPH
-Qaeda	NN
+Qaeda	NNP
 analyst	NN
 who	WP
 recently	RB
@@ -18529,7 +18529,7 @@ Siddiqui	NNP
 who	WP
 has	VBZ
 a	DT
-PhD	NN
+PhD	NNP
 from	IN
 Brandeis	NNP
 in	IN
@@ -19126,7 +19126,7 @@ got	VBD
 the	DT
 lesion	NN
 after	IN
-bumping	NN
+bumping	VBG
 into	IN
 a	DT
 suitcase	NN
@@ -19231,8 +19231,8 @@ the	DT
 fake	JJ
 mobile	JJ
 biolab	NN
-plans	VBZ
-foisted	VBN
+plans	NNS
+foisted	VBD
 upon	IN
 the	DT
 US	NNP
@@ -19286,7 +19286,7 @@ at	IN
 headquarters	NN
 of	IN
 the	DT
-Mukhabarat	NN
+Mukhabarat	NNP
 ,	,
 Iraq	NNP
 's	POS
@@ -20659,9 +20659,9 @@ a	DT
 chapter	NN
 titled	VBN
 "	IN
-Poisonous	JJ
-Letter	NN
-"	NN
+Poisonous	NNP
+Letter	NNP
+"	VBD
 in	IN
 the	DT
 Al	NNP
@@ -20779,7 +20779,7 @@ Martyrs	NNP
 "	NNP
 
 A	DT
-FAQ	NN
+FAQ	NNP
 on	IN
 the	DT
 Azzam	NNP
@@ -22248,7 +22248,7 @@ A	DT
 la	JJ
 guerre	NN
 c'est	NN
-comme	VBZ
+comme	NN
 a	DT
 la	JJ
 guerre	NN
@@ -22545,7 +22545,7 @@ circling	VBG
 over	IN
 our	PRP$
 heads	NNS
-non-stop	NN
+non-stop	JJ
 .	.
 
 Fedayeen	NNP
@@ -23834,7 +23834,7 @@ from	IN
 swearing	NN
 .	.
 
-Fistfights	NNS
+Fistfights	NNP
 ,	,
 please	VB
 .	.

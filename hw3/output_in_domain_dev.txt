@@ -593,7 +593,7 @@ advertising	NN
 works	NNS
 .	.
 
-Hard	RB
+Hard	NNP
 on	IN
 the	DT
 heels	NNS
@@ -2130,7 +2130,7 @@ season	NN
 games	NNS
 ,	,
 and	CC
-batted	VBN
+batted	VBD
 in	IN
 the	DT
 seventh	JJ
@@ -2316,7 +2316,7 @@ was	VBD
 the	DT
 A	NN
 's	POS
-winningest	NN
+winningest	JJS
 pitcher	NN
 during	IN
 its	PRP$
@@ -4499,7 +4499,7 @@ shares	NNS
 of	IN
 Reuters	NNP
 and	CC
-punched	VBN
+punched	VBD
 a	DT
 button	NN
 to	TO
@@ -8175,7 +8175,7 @@ second	JJ
 quarter	NN
 .	.
 
-Nonperformers	NNP
+Nonperformers	NNS
 totaled	VBD
 $	$
 230.8	CD
@@ -10886,7 +10886,7 @@ core	NN
 businesses	NNS
 .	.
 
-Retail	JJ
+Retail	NNP
 profit	NN
 surged	VBD
 ,	,
@@ -11021,7 +11021,7 @@ $	$
 million	CD
 .	.
 
-Purchase	NN
+Purchase	NNP
 of	IN
 the	DT
 76	CD
@@ -11847,7 +11847,7 @@ are	VBP
 in	IN
 place	NN
 that	IN
-synchronize	JJ
+synchronize	NN
 circuit	NN
 breakers	NNS
 in	IN
@@ -13350,7 +13350,7 @@ said	VBD
 
 While	IN
 reaching	VBG
-blockbuster	JJ
+blockbuster	NN
 proportions	NNS
 yesterday	NN
 ,	,
@@ -13943,7 +13943,7 @@ who	WP
 want	VBP
 exposure	NN
 yet	RB
-shun	VBP
+shun	VB
 pushy	JJ
 ads	NNS
 .	.
@@ -14036,7 +14036,7 @@ as	IN
 ``	``
 Floodlights	NNP
 :	:
-Evening	VBG
+Evening	NNP
 Wear	VB
 for	IN
 Urban	NNP
@@ -15202,7 +15202,7 @@ past	NN
 and	CC
 inevitably	RB
 are	VBP
-twisted	JJ
+twisted	VBN
 to	IN
 the	DT
 benefit	NN
@@ -15313,7 +15313,7 @@ VA	NNP
 and	CC
 FmHA	NNP
 are	VBP
-awash	JJ
+awash	NN
 in	IN
 red	JJ
 ink	NN
@@ -15566,7 +15566,7 @@ Union	NNP
 :	:
 ``	``
 It	PRP
-treads	NNS
+treads	VBZ
 in	IN
 two	CD
 worlds	NNS
@@ -18053,7 +18053,7 @@ had	VBD
 posted	VBN
 gains	NNS
 on	IN
-M&A	NN
+M&A	NNP
 speculation	NN
 were	VBD
 dashed	VBN
@@ -18607,7 +18607,7 @@ Australia	NNP
 Sydney	NNP
 's	VBZ
 All	DT
-Ordinaries	NNP
+Ordinaries	NNS
 index	NN
 closed	VBD
 at	IN
@@ -18811,7 +18811,7 @@ fall	NN
 ever	RB
 .	.
 
-Retail	JJ
+Retail	NNP
 investors	NNS
 dumped	VBD
 holdings	NNS
@@ -23727,7 +23727,7 @@ of	IN
 fine	JJ
 crystal	NN
 and	CC
-Wedgwood	NNP
+Wedgwood	NN
 china	NN
 ,	,
 reported	VBD
@@ -28068,7 +28068,7 @@ scrambling	VBG
 to	TO
 tap	VB
 the	DT
-resurging	NN
+resurging	JJ
 market	NN
 ,	,
 reviving	VBG
@@ -28155,7 +28155,7 @@ fastest	JJS
 and	CC
 most	RBS
 sensitive	JJ
-monochrome	NN
+monochrome	JJ
 films	NNS
 .	.
 
@@ -31501,7 +31501,7 @@ to	TO
 acquire	VB
 Pace	NNP
 Membership	NNP
-Warehouse	NN
+Warehouse	NNP
 for	IN
 $	$
 322	CD
@@ -33446,7 +33446,7 @@ insult	NN
 ,	,
 disparate	JJ
 or	CC
-belittle	JJ
+belittle	VB
 ''	''
 the	DT
 election	NN
@@ -33761,7 +33761,7 @@ and	CC
 SWAPO	NNP
 extremists	NNS
 are	VBP
-intimidating	VBG
+intimidating	JJ
 voters	NNS
 .	.
 
@@ -34745,7 +34745,7 @@ recovery	NN
 yesterday	NN
 .	.
 
-COPPER	NN
+COPPER	NNP
 :	:
 
 Futures	NNP
@@ -35251,7 +35251,7 @@ he	PRP
 added	VBD
 .	.
 
-SUGAR	NN
+SUGAR	NNP
 :	:
 
 Futures	NNP
@@ -35306,7 +35306,7 @@ back	RB
 A	DT
 price	NN
 -	HYPH
-depressing	JJ
+depressing	VBG
 factor	NN
 ,	,
 one	NN
@@ -36401,7 +36401,7 @@ Field	NNP
 in	IN
 the	DT
 southeast	NN
-Sumatra	NN
+Sumatra	NNP
 area	NN
 of	IN
 Indonesia	NNP
@@ -36999,7 +36999,7 @@ combination	NN
 of	IN
 cash	NN
 ,	,
-Memotec	JJ
+Memotec	NNP
 stock	NN
 and	CC
 debentures	NNS
@@ -39578,7 +39578,7 @@ about	RB
 minutes	NNS
 and	CC
 then	RB
-steamed	JJ
+steamed	VBD
 forward	NN
 as	IN
 institutions	NNS
@@ -39666,7 +39666,7 @@ market	NN
 's	POS
 performance	NN
 Monday	NNP
-reassuring	JJ
+reassuring	VBG
 ,	,
 he	PRP
 says	VBZ
