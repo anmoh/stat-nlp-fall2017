@@ -76,7 +76,7 @@ n't	RB
 intend	VB
 to	TO
 use	VB
-Gmail	NNP
+Gmail	NN
 ,	,
 and	CC
 Google	NNP
@@ -1654,8 +1654,8 @@ alleged	VBN
 in	IN
 the	DT
 book	NN
-Disposable	JJ
-Patriot	NN
+Disposable	NNP
+Patriot	NNP
 ,	,
 by	IN
 Jack	NNP
@@ -1702,7 +1702,7 @@ smuggle	VB
 explosives	NNS
 .	.
 
-http://www.amazon.ca/exec/obidos/ASIN/0915765381/701-3377456-8181939	NN
+http://www.amazon.ca/exec/obidos/ASIN/0915765381/701-3377456-8181939	NNP
 
 I	PRP
 've	VBP
@@ -1763,7 +1763,7 @@ effort	NN
 staffed	VBN
 by	IN
 covert	JJ
-ops	NNS
+ops	NN
 types	NNS
 including	VBG
 Ollie	NNP
@@ -2712,7 +2712,7 @@ $	$
 And	CC
 ......	VBD
 You	PRP
-HAVE	JJ
+HAVE	VBZ
 To	TO
 Follow	VB
 The	DT
@@ -3018,7 +3018,7 @@ guns	NNS
 from	IN
 the	DT
 90s	CD
-Bosnian	NNP
+Bosnian	JJ
 war	NN
 ,	,
 to	IN
@@ -4581,7 +4581,7 @@ new	JJ
 husband	NN
 .	.
 
-Husbands	NNS
+Husbands	NNP
 marry	VB
 mothers	NNS
 and	CC
@@ -4911,7 +4911,7 @@ officials	NNS
 say	VBP
 ...	:
 
-http://www.rawstory.com/news/2006/US_outsourcing_special_operations_intelligence_gathering_0413.html	NN
+http://www.rawstory.com/news/2006/US_outsourcing_special_operations_intelligence_gathering_0413.html	NNP
 
 A	DT
 country	NN
@@ -5598,7 +5598,7 @@ into	IN
 it	PRP
 ....	VBD
 
-http://en.wikipedia.org/wiki/Aerocom	NN
+http://en.wikipedia.org/wiki/Aerocom	NNP
 
 So	RB
 ...	:
@@ -5705,7 +5705,7 @@ is	VBZ
 phoney	JJ
 ,	,
 love	NN
-thy	NN
+thy	JJ
 neighbor	NN
 ...	:
 hell	NN
@@ -6106,7 +6106,7 @@ wilt	NN
 "	NNS
 .	.
 
-http://youtube.com/watch?v=d46_ctqDmI4	NN
+http://youtube.com/watch?v=d46_ctqDmI4	NNP
 
 To	IN
 not	RB
@@ -6833,7 +6833,7 @@ of	IN
 1937	CD
 :	:
 
-http://en.wikipedia.org/wiki/Degenerate_art	NN
+http://en.wikipedia.org/wiki/Degenerate_art	NNP
 
 Ironically	NNP
 (	(
@@ -7175,7 +7175,7 @@ vast	JJ
 output	NN
 with	IN
 a	DT
-magickal	NN
+magickal	JJ
 current	NN
 designed	VBN
 to	TO
@@ -7634,7 +7634,7 @@ today	NN
 ?	.
 
 by	IN
-exmearden	NN
+exmearden	JJ
 
 Fri	NNP
 May	NNP
@@ -8325,7 +8325,7 @@ media	NNS
 are	VBP
 having	VBG
 a	DT
-hissy	NN
+hissy	JJ
 fit	NN
 over	IN
 Venezuela	NNP
@@ -9679,7 +9679,7 @@ Deja	NNP
 vu	NN
 .	.
 
-Arial	JJ
+Arial	NNP
 photos	NNS
 of	IN
 the	DT
@@ -9783,7 +9783,7 @@ Bin	NNP
 Laden	NNP
 and	CC
 Ayman	NNP
-al	NNP
+al	JJ
 -	HYPH
 Zawahiri	NNP
 tell	VB
@@ -9888,7 +9888,7 @@ United	NNP
 States	NNP
 against	IN
 the	DT
-Taliban	NN
+Taliban	NNP
 and	CC
 al	JJ
 -	HYPH
@@ -10979,7 +10979,7 @@ quietly	RB
 .	.
 
 See	NNP
-http://www.gulf-news.com/Articles/news.asp?ArticleID=97508	NN
+http://www.gulf-news.com/Articles/news.asp?ArticleID=97508	NNP
 
 In	IN
 the	DT
@@ -11410,7 +11410,7 @@ a	DT
 fight	NN
 with	IN
 Muqtada	NNP
-al	NNP
+al	JJ
 -	HYPH
 Sadr	NNP
 's	POS
@@ -11548,7 +11548,7 @@ Department	NNP
 from	IN
 running	VBG
 the	DT
-CPA	NNP
+CPA	NN
 .	.
 
 State	NNP
@@ -11981,7 +11981,7 @@ the	DT
 militant	JJ
 Palestinian	JJ
 group	NN
-Hamas	NNS
+Hamas	NN
 and	CC
 said	VBD
 that	IN
@@ -13378,9 +13378,9 @@ at	IN
 :	:
 3:29	CD
 p.m.	NN
-EST	NNP
+EST	NN
 (	(
-2029	NNP
+2029	CD
 GMT	NNP
 )	)
 
@@ -13854,7 +13854,7 @@ strongest	JJS
 supporter	NN
 of	IN
 the	DT
-Taliban	NN
+Taliban	NNP
 ,	,
 would	MD
 bring	VB
@@ -14055,7 +14055,7 @@ did	VBD
 turn	NN
 against	IN
 the	DT
-Taliban	NN
+Taliban	NNP
 after	IN
 September	NNP
 11	CD
@@ -14540,7 +14540,7 @@ by	IN
 al	JJ
 -	HYPH
 Gamaa	NN
-al	NN
+al	JJ
 -	HYPH
 Islamiyyah	NNP
 ,	,
@@ -14866,7 +14866,7 @@ picking	VBG
 up	RB
 from	IN
 radical	JJ
-Islamist	NN
+Islamist	JJ
 terrorists	NNS
 .	.
 
@@ -14927,9 +14927,9 @@ Pakistan	NNP
 .	.
 
 I	PRP
-presume	VB
+presume	VBP
 you	PRP
-need	VB
+need	VBP
 the	DT
 Pakistan	NNP
 base	NN
@@ -14989,7 +14989,7 @@ elements	NNS
 protective	JJ
 of	IN
 the	DT
-Taliban	NN
+Taliban	NNP
 ,	,
 and	CC
 the	DT
@@ -15621,9 +15621,9 @@ for	IN
 those	DT
 who	WP
 later	RB
-abstain	JJ
+abstain	NN
 ,	,
-"	JJ
+"	DT
 visual	JJ
 -	HYPH
 spatial	NN
@@ -17449,7 +17449,7 @@ Islami	NN
 group	NN
 of	IN
 Ayman	NNP
-al	NNP
+al	JJ
 -	HYPH
 Zawahiri	NNP
 (	(
@@ -18058,7 +18058,7 @@ majority	NN
 of	IN
 whom	WP
 are	VBP
-Muslim	NN
+Muslim	NNP
 ,	,
 calling	VBG
 upon	IN
@@ -18169,8 +18169,8 @@ in	IN
 Najaf	NNP
 .	.
 
-Most	JJS
-Shiites	NNS
+Most	NNP
+Shiites	NNP
 ,	,
 however	RB
 ,	,
@@ -18447,7 +18447,7 @@ Ed	NNP
 Wong	NNP
 of	IN
 the	DT
-NYT	NNP
+NYT	NN
 has	VBZ
 more	JJR
 on	IN
@@ -18548,8 +18548,8 @@ satire	NN
 on	IN
 Fallujah	NNP
 ,	,
-see	VBP
-Unconfirmed	VBN
+see	VB
+Unconfirmed	JJ
 Sources	NNS
 which	WDT
 has	VBZ
@@ -19137,7 +19137,7 @@ on	IN
 the	DT
 lookout	NN
 for	IN
-Baathist	NN
+Baathist	JJ
 saboteurs	NNS
 and	CC
 willingly	RB
@@ -19426,7 +19426,7 @@ been	VBN
 sufficiently	RB
 involved	VBN
 in	IN
-Baath	JJ
+Baath	NN
 activities	NNS
 to	TO
 warrant	VB
@@ -20315,13 +20315,13 @@ learned	VBD
 
 http://www.ibiblio.org/expo/soviet.exhibit/chernobyl.html	NN
 
-http://www.ibrae.ac.ru/IBRAE/eng/chernobyl/nat_rep/nat_repe.htm#24	NN
+http://www.ibrae.ac.ru/IBRAE/eng/chernobyl/nat_rep/nat_repe.htm#24	NNP
 
 http://www.nsrl.ttu.edu/chernobyl/wildlifepreserve.htm	NN
 
 http://www.environmentalchemistry.com/yogi/hazmat/articles/chernobyl1.html	NN
 
-http://digon_va.tripod.com/Chernobyl.htm	NN
+http://digon_va.tripod.com/Chernobyl.htm	NNP
 
 http://www.oneworld.org/index_oc/issue196/byckau.html	NN
 
@@ -20329,9 +20329,9 @@ http://www.collectinghistory.net/chernobyl/	NN
 
 http://www.ukrainianweb.com/chernobyl_ukraine.htm	NN
 
-http://www.bullatomsci.org/issues/1993/s93/s93Marples.html	NN
+http://www.bullatomsci.org/issues/1993/s93/s93Marples.html	NNP
 
-http://www.calguard.ca.gov/ia/Chernobyl-15%20years.htm	NN
+http://www.calguard.ca.gov/ia/Chernobyl-15%20years.htm	NNP
 
 http://www.infoukes.com/history/chornobyl/gregorovich/index.html	NN
 
@@ -20357,7 +20357,7 @@ http://www.physics.isu.edu/radinf/chern.htm	NN
 
 http://www.chernobyl.info/en	NN
 
-http://www.arps.org.au/Chernobyl.htm	NN
+http://www.arps.org.au/Chernobyl.htm	NNP
 
 http://www-formal.stanford.edu/jmc/progress/chernobyl.html	NN
 
