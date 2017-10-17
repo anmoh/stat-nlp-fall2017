@@ -1117,7 +1117,7 @@ do	VB
 this	DT
 .	.
 
-Authorities	NNP
+Authorities	NNS
 would	MD
 likely	RB
 have	VB
@@ -1219,7 +1219,7 @@ want	VBP
 extradited	VBN
 ,	,
 CIA	NNP
-operative	NN
+operative	JJ
 Michael	NNP
 Meiring	NNP
 .	.
@@ -4949,9 +4949,9 @@ cult	NN
 As	IN
 the	DT
 leaders	NNS
-like	IN
-to	IN
-boast	NN
+like	VBP
+to	TO
+boast	VB
 ,	,
 the	DT
 Mujahedeen	NNP
@@ -6772,7 +6772,7 @@ degenerate	VB
 by	IN
 the	DT
 National	NNP
-Socialists	NNS
+Socialists	NNPS
 .	.
 
 Adolf	NNP
@@ -6858,7 +6858,7 @@ was	VBD
 appropriated	VBN
 by	IN
 the	DT
-Nazis	NNS
+Nazis	NNPS
 and	CC
 its	PRP$
 origins	NNS
@@ -7708,7 +7708,7 @@ I	PRP
 'm	VBP
 wary	JJ
 of	IN
-jumping	NN
+jumping	VBG
 into	IN
 this	DT
 fray	NN
@@ -10043,7 +10043,7 @@ against	IN
 him	PRP
 by	IN
 Islamist	NNP
-junior	NN
+junior	JJ
 officers	NNS
 ,	,
 they	PRP
@@ -11262,7 +11262,7 @@ one	CD
 choice	NN
 for	IN
 the	DT
-Arabs	NNS
+Arabs	NNPS
 ,	,
 that	IN
 of	IN
@@ -13059,9 +13059,9 @@ Hussein	NNP
 's	POS
 dictatorship	NN
 ensured	VBD
-that	DT
+that	IN
 such	JJ
-populist	NN
+populist	JJ
 currents	NNS
 were	VBD
 kept	VBN
@@ -14166,7 +14166,7 @@ rampaged	VBN
 around	IN
 the	DT
 world	NN
-alienating	JJ
+alienating	VBG
 allies	NNS
 and	CC
 ignoring	VBG
@@ -15398,8 +15398,8 @@ and	CC
 did	VBD
 not	RB
 even	RB
-slack	NN
-off	RB
+slack	VB
+off	RP
 efficiently	RB
 .	.
 
@@ -17354,10 +17354,10 @@ only	RB
 a	DT
 few	JJ
 hundred	CD
-"	NN
-Afghan	JJ
-Arabs	NNS
-"	IN
+"	NNP
+Afghan	NNP
+Arabs	NNPS
+"	NNP
 who	WP
 pledged	VBD
 personal	JJ
@@ -17828,7 +17828,7 @@ main	JJ
 force	NN
 urging	VBG
 Sunni	NNP
-Arabs	NNS
+Arabs	NNPS
 to	TO
 participate	VB
 in	IN
@@ -21131,7 +21131,7 @@ is	VBZ
 one	CD
 thought	NN
 -	HYPH
-provoking	JJ
+provoking	VBG
 film	NN
 .	.
 
