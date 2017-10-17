@@ -1060,7 +1060,7 @@ yesterday	NN
 .	.
 
 (	(
-"	JJ
+"	IN
 At	IN
 first	JJ
 I	NN
@@ -1166,7 +1166,7 @@ overplayed	VBD
 his	PRP$
 hand	NN
 and	CC
-embarrassed	VBN
+embarrassed	JJ
 his	PRP$
 old	JJ
 patron	NN
@@ -1604,7 +1604,7 @@ his	PRP$
 freedom	NN
 .	.
 
-Meiring	NN
+Meiring	NNP
 is	VBZ
 more	JJR
 than	IN
@@ -2683,7 +2683,7 @@ Do	VBP
 n't	RB
 Let	VB
 This	DT
-Pass	NNP
+Pass	NN
 You	PRP
 By	IN
 Without	IN
@@ -3500,7 +3500,7 @@ she	PRP
 had	VBD
 been	VBN
 sexually	RB
-assaulted	VBN
+assaulted	JJ
 .	.
 
 "	IN
@@ -3924,7 +3924,7 @@ Most	NNP
 Wanted	VBN
 Fugitives	NNS
 ,	,
-"	VBG
+"	IN
 a	DT
 move	NN
 that	IN
@@ -4093,7 +4093,7 @@ girls	NNS
 and	CC
 with	IN
 arranging	VBG
-"	DT
+"	JJ
 spiritual	JJ
 "	NN
 marriages	NNS
@@ -4372,7 +4372,7 @@ your	PRP$
 regularly	RB
 scheduled	VBN
 programming	NN
-....	NN
+....	IN
 
 just	RB
 go	VB
@@ -5425,7 +5425,7 @@ and	CC
 sorry	RB
 --	:
 it	PRP
-ai	VBP
+ai	VBZ
 n't	RB
 just	RB
 about	IN
@@ -5648,7 +5648,7 @@ bearing	VBG
 the	DT
 message	NN
 ,	,
-"	NNP
+"	TO
 Kill	VB
 your	PRP$
 parents	NNS
@@ -5666,7 +5666,7 @@ this	DT
 "	JJ
 real	JJ
 morality	NN
-"	NN
+"	NNP
 when	WRB
 they	PRP
 indescriminately	RB
@@ -5920,7 +5920,7 @@ previously	RB
 unexplored	JJ
 socio-political	JJ
 -	HYPH
-spiritual	JJ
+spiritual	NN
 territory	NN
 here	RB
 that	IN
@@ -7175,7 +7175,7 @@ vast	JJ
 output	NN
 with	IN
 a	DT
-magickal	JJ
+magickal	NN
 current	NN
 designed	VBN
 to	TO
@@ -7300,7 +7300,7 @@ and	CC
 behold	NN
 ,	,
 the	DT
-Mormons	NNP
+Mormons	NNS
 were	VBD
 there	RB
 with	IN
@@ -7846,7 +7846,7 @@ out	RP
 and	CC
 compartmentalize	VB
 personal	JJ
-spiritual	NN
+spiritual	JJ
 and	CC
 political	JJ
 systems	NNS
@@ -8266,7 +8266,7 @@ a	DT
 whole	JJ
 other	JJ
 topic	NN
-....	NN
+....	NNS
 )	)
 
 I	PRP
@@ -8311,7 +8311,7 @@ particular	JJ
 lifestyle	NN
 .	.
 
-Peace	NNP
+Peace	NN
 .	.
 
 The	DT
@@ -10094,7 +10094,7 @@ with	IN
 most	JJS
 al	JJ
 -	HYPH
-Qaeda	NN
+Qaeda	NNP
 crackpot	NN
 schemes	NNS
 .	.
@@ -10322,7 +10322,7 @@ succeeded	VBN
 in	IN
 politically	RB
 isolating	VBG
-Hamas	NNP
+Hamas	NN
 ,	,
 and	CC
 started	VBD
@@ -10539,7 +10539,7 @@ be	VB
 able	JJ
 to	TO
 get	VB
-Iraqis	NNP
+Iraqis	NNS
 on	IN
 its	PRP$
 side	NN
@@ -10559,7 +10559,7 @@ the	DT
 Shiites	NNS
 already	RB
 hate	VBP
-al	JJ
+al	NN
 -	HYPH
 Qaeda	NNP
 and	CC
@@ -10678,7 +10678,7 @@ cry	NN
 for	IN
 al	JJ
 -	HYPH
-Qaeda	NN
+Qaeda	NNP
 in	IN
 the	DT
 Arab	JJ
@@ -11269,7 +11269,7 @@ of	IN
 fighting	NN
 and	CC
 jihad	NN
-"	NN
+"	NNS
 .	.
 
 The	DT
@@ -11410,7 +11410,7 @@ a	DT
 fight	NN
 with	IN
 Muqtada	NNP
-al	JJ
+al	NNP
 -	HYPH
 Sadr	NNP
 's	POS
@@ -11637,7 +11637,7 @@ few	JJ
 experienced	JJ
 State	NNP
 Department	NNP
-Arabists	VBZ
+Arabists	NNP
 been	VBN
 allowed	VBN
 in	IN
@@ -12737,7 +12737,7 @@ failed	JJ
 state	NN
 .	.
 
-Armed	VBN
+Armed	NNP
 militias	NNS
 ,	,
 many	JJ
@@ -14372,7 +14372,7 @@ mindedness	NN
 ,	,
 so	IN
 many	JJ
-weasel	JJ
+weasel	NN
 words	NNS
 .	.
 
@@ -17234,7 +17234,7 @@ rivals	NNS
 of	IN
 al	JJ
 -	HYPH
-Qaeda	NN
+Qaeda	NNP
 during	IN
 the	DT
 Afghan	JJ
@@ -17266,7 +17266,7 @@ resources	NNS
 with	IN
 al	JJ
 -	HYPH
-Qaeda	NN
+Qaeda	NNP
 in	IN
 the	DT
 early	JJ
@@ -20072,7 +20072,7 @@ Lessons	NNP
 learned	VBD
 .	.
 which	WDT
-contradict	VBP
+contradict	NN
 the	DT
 earlier	JJR
 reports	NNS
@@ -20263,7 +20263,7 @@ in	IN
 a	DT
 world	NN
 of	IN
-conflicting	VBG
+conflicting	JJ
 reports	NNS
 .	.
 
@@ -20895,7 +20895,7 @@ Me	PRP
 and	CC
 the	DT
 big	JJ
-"	NN
+"	NNP
 G	NNP
 "	NNP
 
