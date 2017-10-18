@@ -1923,7 +1923,7 @@ roll	NN
 tunes	NNS
 .	.
 
-Baseball	NN
+Baseball	NNP
 ,	,
 that	DT
 game	NN
@@ -11398,7 +11398,7 @@ a	DT
 selling	NN
 panic	NN
 from	IN
-feeding	NN
+feeding	VBG
 on	IN
 itself	PRP
 .	.
@@ -11788,7 +11788,7 @@ on	IN
 joint	JJ
 conditions	NNS
 for	IN
-halting	JJ
+halting	VBG
 trading	NN
 or	CC
 staying	NN
@@ -14755,7 +14755,7 @@ National	NNP
 Association	NNP
 of	IN
 Home	NNP
-Builders	NNS
+Builders	NNPS
 (	(
 NAHB	NNP
 )	)
@@ -15459,9 +15459,9 @@ government	NN
 regulation	NN
 ,	,
 particularly	RB
-zoning	NN
+zoning	VBG
 and	CC
-building	NN
+building	VBG
 fees	NNS
 ,	,
 which	WDT
@@ -15636,7 +15636,7 @@ the	DT
 $	$
 19	CD
 billion	CD
-omnibus	NN
+omnibus	JJ
 housing	NN
 bill	NN
 ,	,
@@ -15757,8 +15757,8 @@ story	NN
 ``	``
 And	CC
 Bills	NNS
-to	IN
-Make	NNP
+to	TO
+Make	VB
 Wishes	NNP
 Come	VBN
 True	NNP
@@ -16427,7 +16427,7 @@ Friday	NNP
 .	.
 
 The	DT
-multibillion	NN
+multibillion	CD
 -	HYPH
 dollar	NN
 prospects	NNS
@@ -16906,7 +16906,7 @@ appropriate	JJ
 sanctions	NNS
 .	.
 
-Yes	NNP
+Yes	RB
 ,	,
 the	DT
 broader	JJR
@@ -19109,7 +19109,7 @@ the	DT
 League	NNP
 of	IN
 Conservation	NNP
-Voters	NNS
+Voters	NNPS
 ,	,
 the	DT
 Natural	NNP
@@ -24909,7 +24909,7 @@ year	NN
 maturities	NNS
 .	.
 
-Tomorrow	NN
+Tomorrow	NNP
 ,	,
 the	DT
 Resolution	NNP
@@ -30637,7 +30637,7 @@ three	CD
 production	NN
 units	NNS
 in	IN
-southwest	NN
+southwest	JJ
 Germany	NNP
 ,	,
 and	CC
@@ -35306,7 +35306,7 @@ back	RB
 A	DT
 price	NN
 -	HYPH
-depressing	JJ
+depressing	VBG
 factor	NN
 ,	,
 one	NN
@@ -37167,7 +37167,7 @@ in	IN
 private	JJ
 transactions	NNS
 at	IN
-prevailing	JJ
+prevailing	VBG
 market	NN
 prices	NNS
 .	.
@@ -40773,7 +40773,7 @@ Norway	NNP
 's	POS
 King	NNP
 Olav	NNP
-V	NN
+V	NNP
 installed	VBD
 a	DT
 three	CD
@@ -42456,7 +42456,7 @@ The	DT
 stock	NN
 has	VBZ
 since	IN
-softened	JJ
+softened	VBN
 ,	,
 trading	NN
 around	IN

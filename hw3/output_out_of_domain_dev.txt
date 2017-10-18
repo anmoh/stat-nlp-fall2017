@@ -7,7 +7,7 @@ ruling	NN
 today	NN
 in	IN
 Hamdan	NNP
-v.	IN
+v.	CC
 Rumsfeld	NNP
 divided	VBN
 along	IN
@@ -347,7 +347,7 @@ said	VBD
 the	DT
 plot	NN
 ,	,
-thwarted	VBD
+thwarted	VBN
 by	IN
 Britain	NNP
 ,	,
@@ -5829,9 +5829,9 @@ those	DT
 who	WP
 lie	VBP
 ,	,
-distort	VB
+distort	VBP
 and	CC
-want	VB
+want	VBP
 to	TO
 destroy	VB
 everything	NN
@@ -7162,9 +7162,9 @@ her	PRP$
 belly	NN
 ?	.
 
-Do	VB
+Do	VBP
 you	PRP
-shoot	VB
+shoot	VBP
 back	RB
 at	IN
 someone	NN
@@ -7182,9 +7182,9 @@ of	IN
 children	NNS
 ?	.
 
-Do	VBP
+Do	VB
 you	PRP
-raid	NN
+raid	VB
 terrorist	JJ
 headquarters	NN
 ,	,
@@ -8358,7 +8358,7 @@ Syria	NNP
 Lebanon	NNP
 and	CC
 certain	JJ
-Shiite	NNP
+Shiite	JJ
 elements	NNS
 in	IN
 Iraq	NNP
@@ -9359,9 +9359,9 @@ the	DT
 non-interference	NN
 of	IN
 alleged	JJ
-Pakistani	NNP
+Pakistani	JJ
 backed	VBN
-Taliban	NNP
+Taliban	NN
 .	.
 
 Western	JJ
@@ -9899,7 +9899,7 @@ intelligence	NN
 about	IN
 Taliban	NNP
 leaders	NNS
-hiding	NN
+hiding	VBG
 in	IN
 Baluchistan	NNP
 .	.
@@ -10311,7 +10311,7 @@ upon	IN
 swiftly	RB
 .	.
 
-Senior	NNP
+Senior	JJ
 US	NNP
 diplomats	NNS
 and	CC
@@ -12703,7 +12703,7 @@ Velupillai	NNP
 Prabhakaran	NNP
 in	IN
 the	DT
-rebel	NN
+rebel	JJ
 stronghold	NN
 of	IN
 Kilinochchi	NNP
@@ -15033,7 +15033,7 @@ Andaman	NNP
 islands	NNS
 .	.
 
-Subsequently	NNP
+Subsequently	RB
 ,	,
 Phuket	NNP
 became	VBD
@@ -15315,7 +15315,7 @@ to	IN
 Cox	NNP
 's	POS
 Bazar	NN
-passes	NNS
+passes	VBZ
 through	IN
 northern	JJ
 Bengal	NNP
@@ -15395,7 +15395,7 @@ larger	JJR
 and	CC
 more	RBR
 heavily	RB
-populated	JJ
+populated	VBN
 northern	JJ
 islands	NNS
 ,	,
@@ -15565,7 +15565,7 @@ had	VBD
 determined	VBN
 that	IN
 the	DT
-Egyptian	NNP
+Egyptian	JJ
 Islamic	NNP
 Jihad	NNP
 should	MD
@@ -16970,7 +16970,7 @@ had	VBD
 determined	VBN
 that	IN
 the	DT
-Egyptian	NNP
+Egyptian	JJ
 Islamic	NNP
 Jihad	NNP
 should	MD
@@ -17205,8 +17205,8 @@ and	CC
 those	DT
 he	PRP
 or	CC
-Atef	NNP
-recruited	VBD
+Atef	VB
+recruited	VBN
 .	.
 
 In	IN
@@ -20404,7 +20404,7 @@ Qaeda	NNP
 Mohammed	NNP
 allegedly	RB
 was	VBD
-hiding	NN
+hiding	VBG
 in	IN
 the	DT
 home	NN
@@ -20820,7 +20820,7 @@ the	DT
 letters	NNS
 to	IN
 the	DT
-Senators	NNP
+Senators	NNS
 is	VBZ
 also	RB
 revealing	JJ
